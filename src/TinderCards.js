@@ -17,7 +17,7 @@ function TinderCards() {
 
     const swiped = (direction, nameToDelete) => {
         console.log("removing: " + nameToDelete);
-        // ßsetLastDirection(direction);
+        // setLastDirection(direction);
     };
 
     const outOfFrame = (name) => {
